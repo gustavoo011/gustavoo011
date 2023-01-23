@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_oliverc/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-oliveira-23452422a/)[![DuoLingo](	https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Gustavo180511)
 
-![Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoo011&show_icons=true&theme=transparent)
+![Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoo011&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu estou estudando 📚👨🏽‍💻
 <div style="display: inline-block"><br/>
