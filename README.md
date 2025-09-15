@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-oliveira-23452422a/)
 
-![Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoo011&show_icons=true&theme=cobalt)
+![Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoo011&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu estou estudando 📚👨🏽‍💻
 <div style="display: inline-block"><br/>
